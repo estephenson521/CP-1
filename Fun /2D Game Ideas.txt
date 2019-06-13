@@ -1,0 +1,14 @@
+Java 2D Game Ideas
+
+-Enemies 
+-Moving Enemies
+-Barriers
+-Requirements to beat the level such as efficiency, move x number of times in y direction etc
+
+-varying level shapes (non rectangular will be difficult)
+-multiple levels
+-bosses only defeat-able with a power that can be picked ups and only last a certain amount of turns
+-efficient wins counter
+-counting losses/game over function
+-board is already larger but barriers make it a certain size (used to make board bigger while actually working)
+
